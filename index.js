@@ -47,6 +47,7 @@ class User {
         }
         this._sex = sex;
       }  
+      howMenyYearStudy () {};
 
 }
 /**
